@@ -1,0 +1,7 @@
+D:\Semester 2 Lectures\OOP\OOP Lab\Week 3\Pd_week3_task2\Pd_week3_task2\bin\Debug\Pd_week3_task2.exe.config
+D:\Semester 2 Lectures\OOP\OOP Lab\Week 3\Pd_week3_task2\Pd_week3_task2\bin\Debug\Pd_week3_task2.exe
+D:\Semester 2 Lectures\OOP\OOP Lab\Week 3\Pd_week3_task2\Pd_week3_task2\bin\Debug\Pd_week3_task2.pdb
+D:\Semester 2 Lectures\OOP\OOP Lab\Week 3\Pd_week3_task2\Pd_week3_task2\obj\Debug\Pd_week3_task2.csproj.AssemblyReference.cache
+D:\Semester 2 Lectures\OOP\OOP Lab\Week 3\Pd_week3_task2\Pd_week3_task2\obj\Debug\Pd_week3_task2.csproj.CoreCompileInputs.cache
+D:\Semester 2 Lectures\OOP\OOP Lab\Week 3\Pd_week3_task2\Pd_week3_task2\obj\Debug\Pd_week3_task2.exe
+D:\Semester 2 Lectures\OOP\OOP Lab\Week 3\Pd_week3_task2\Pd_week3_task2\obj\Debug\Pd_week3_task2.pdb
