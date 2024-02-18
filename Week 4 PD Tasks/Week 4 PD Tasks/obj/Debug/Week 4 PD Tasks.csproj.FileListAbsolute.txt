@@ -1,0 +1,7 @@
+D:\Semester 2 Lectures\Programming Day\Week 4 PD Tasks\Week 4 PD Tasks\bin\Debug\Week 4 PD Tasks.exe.config
+D:\Semester 2 Lectures\Programming Day\Week 4 PD Tasks\Week 4 PD Tasks\bin\Debug\Week 4 PD Tasks.exe
+D:\Semester 2 Lectures\Programming Day\Week 4 PD Tasks\Week 4 PD Tasks\bin\Debug\Week 4 PD Tasks.pdb
+D:\Semester 2 Lectures\Programming Day\Week 4 PD Tasks\Week 4 PD Tasks\obj\Debug\Week 4 PD Tasks.csproj.AssemblyReference.cache
+D:\Semester 2 Lectures\Programming Day\Week 4 PD Tasks\Week 4 PD Tasks\obj\Debug\Week 4 PD Tasks.csproj.CoreCompileInputs.cache
+D:\Semester 2 Lectures\Programming Day\Week 4 PD Tasks\Week 4 PD Tasks\obj\Debug\Week 4 PD Tasks.exe
+D:\Semester 2 Lectures\Programming Day\Week 4 PD Tasks\Week 4 PD Tasks\obj\Debug\Week 4 PD Tasks.pdb
